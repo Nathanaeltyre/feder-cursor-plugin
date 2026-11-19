@@ -2,7 +2,7 @@
   "name": "feder",
   "displayName": "Feder",
   "version": "1.0.0",
-  "description": "Ask your AI assistant whether your tracking is working. Feder reads your sites' tracking status, open breaks and recent fixes, read-only.",
+  "description": "Every number counted. Every signal in one place. Feder checks every sale, booking and form fill where it happens; your assistant reads it, read-only.",
   "author": { "name": "Feder", "url": "https://www.getfeder.com" },
   "homepage": "https://www.getfeder.com",
   "license": "MIT",

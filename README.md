@@ -1,5 +1,7 @@
 # Feder for Cursor and Grok Bot
 
+Every number counted. Every signal in one place.
+
 Feder checks every sale, booking and form fill right where it happens, so you always know which numbers to trust. This plugin lets your assistant read that, in plain words.
 
 ## What it can do
