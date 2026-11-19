@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "feder": {
+      "url": "https://app.getfeder.com/api/mcp"
+    }
+  }
+}

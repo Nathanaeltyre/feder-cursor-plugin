@@ -1,0 +1,11 @@
+{
+  "name": "feder",
+  "displayName": "Feder",
+  "version": "1.0.0",
+  "description": "Ask your AI assistant whether your tracking is working. Feder reads your sites' tracking status, open breaks and recent fixes, read-only.",
+  "author": { "name": "Feder", "url": "https://www.getfeder.com" },
+  "homepage": "https://www.getfeder.com",
+  "license": "MIT",
+  "keywords": ["analytics", "tracking", "ga4", "monitoring", "marketing"],
+  "logo": "assets/logo.png"
+}
